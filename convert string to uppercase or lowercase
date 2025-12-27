@@ -1,0 +1,6 @@
+s="dileep"
+s2=s.upper()
+print(s2)
+r="DILEEP"
+r2=s.lower()
+print(r2)
